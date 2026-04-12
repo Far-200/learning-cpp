@@ -1,0 +1,43 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.vcxproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+
+# Books
+Study Materials (Textbooks)/
+*.exe
+*.out
+*.o
+*.obj
